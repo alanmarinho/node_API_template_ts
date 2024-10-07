@@ -14,4 +14,6 @@
 `npm run dev`
 
 
+#### Remember to change the remote repository URL
+
 :)
